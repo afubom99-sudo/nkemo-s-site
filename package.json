@@ -1,0 +1,14 @@
+{
+  "name": "nkemos-trending-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes vercel dev"
+  },
+  "dependencies": {
+    "@vercel/blob": "^2.9.0"
+  },
+  "overrides": {
+    "@vercel/cli-config": "0.4.0"
+  }
+}
